@@ -9,8 +9,8 @@ import json
 
 
 # Baidu Translate API key
-appid = 'xxx' #你的appid
-secretKey = 'xxx' #你的密钥
+#appid = 'xxx' #你的appid
+#secretKey = 'xxx' #你的密钥
 
 
 
